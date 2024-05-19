@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home Page"
+        android:icon="@drawable/homepage"
+        android:id="@+id/homepage"/>
+
+    <item
+        android:title="Monthly Overview"
+        android:icon="@drawable/monthly_overview"
+        android:id="@+id/month_overview" />
+
+    <item
+        android:title="Log Out"
+        android:icon="@drawable/logout"
+        android:id="@+id/logout"/>
+</menu>
